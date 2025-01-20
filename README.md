@@ -9,3 +9,22 @@ Dashboard feito por Maria Clara Nascimento Silva para o bootcamp Caixa - IA Gene
 Esse dashboard contém uma planilha para planejamento financeiro com gráficos de entrada e saída de capital, bem como controle de economias e filtros para facilitar o acesso dos dados.
 
 Tecnologia utilizada: Microsoft Excel
+
+## 👨‍💻 Desenvolvedora
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/user-attachments/assets/163af32f-d0aa-4f98-8292-7a48d44cf524"
+    />
+    <p>&nbsp&nbsp&nbspMaria Clara Nascimento Silva<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/sheena-edelstein">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/maria-clara-nascimento-silva/">
+    LinkedIn</a>
+    </p>
+<br/><br/>
+<p>
