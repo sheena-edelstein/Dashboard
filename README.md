@@ -1,4 +1,4 @@
-# Dashboard
+# Dashboard - Planilha Inteligente com IA
 
 ![image](https://github.com/user-attachments/assets/dde92d78-8e0e-4cd7-914a-a842ca6650c0)
 
